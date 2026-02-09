@@ -1,0 +1,8 @@
+{
+  "name": "EcoSolve AI",
+  "description": "An AI-powered environmental problem solver that provides explanations, step-by-step action plans, and generated visual illustrations for ecological issues.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
